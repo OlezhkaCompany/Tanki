@@ -1,0 +1,14 @@
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\tANKI\tANKI\bin\Debug\tANKI.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\tANKI\tANKI\bin\Debug\tANKI.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\tANKI\tANKI\bin\Debug\tANKI.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\tANKI\tANKI\obj\Debug\tANKI.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\tANKI\tANKI\obj\Debug\tANKI.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\tANKI\tANKI\obj\Debug\tANKI.pdb
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\obj\Debug\MyFirstGame.ConMainForm.resources
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\obj\Debug\MyFirstGame.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\obj\Debug\MyFirstGame.UC.resources
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\bin\Debug\Tanki.exe.manifest
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\bin\Debug\Tanki.application
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\obj\Debug\Tanki.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\obj\Debug\Tanki.exe.manifest
+C:\Users\lenovo\documents\visual studio 2013\Projects\tANKI\tANKI\obj\Debug\Tanki.application
